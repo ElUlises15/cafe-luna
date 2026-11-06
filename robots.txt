@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Indexing is disabled through meta robots and X-Robots-Tag.
